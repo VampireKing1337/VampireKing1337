@@ -1,10 +1,4 @@
 
-GitHub Profile README Generator
-Star this repo
-20404
-Fork on GitHub
-6248
-
 <h1 align="center">Hi 👋, I'm King.ιℓу 𓂃‹3</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampireking1337&label=Profile%20views&color=0e75b6&style=flat" alt="vampireking1337" /> </p>
 
