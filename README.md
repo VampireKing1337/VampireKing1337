@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vampireking1337&show_icons=true&locale=en" alt="vampireking1337" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhvitOP&theme=dark&hide_border=true)](https://github.com/VampireKing1337/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VampireKing1337&theme=dark&hide_border=true)](https://github.com/VampireKing1337/github-readme-streak-stats)
