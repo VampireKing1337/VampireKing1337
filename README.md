@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm King.ιℓу 𓂃‹3</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vampireking1337&label=Profile%20views&color=0e75b6&style=flat" alt="vampireking1337" /> </p>
 
-<img align="right" alt="Vampire" width="400" src="https://cdn.discordapp.com/avatars/309396877009485825/607af0021c5a9ccbfdbb33505513aa29.png">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampireking1337" alt="vampireking1337" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kingalpha216596" target="blank"><img src="https://img.shields.io/twitter/follow/kingalpha216596?logo=twitter&style=for-the-badge" alt="kingalpha216596" /></a> </p>
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vampireking1337&show_icons=true&locale=en" alt="vampireking1337" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vampireking1337&" alt="vampireking1337" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhvitOP&theme=dark&hide_border=true)](https://github.com/VampireKing1337/github-readme-streak-stats)
