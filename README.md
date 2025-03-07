@@ -1,4 +1,4 @@
-[![King.ιℓу 𓂃‹3](https://cdn.discordapp.com/attachments/1244683167936413696/1255154696163688568/9bededd77c81772cc99d38a2e6694db5.jpg?ex=667c1967&is=667ac7e7&hm=349a367d86de64377c800c722aeba582a8dbdf03139edc230907e98d11be4000&)](https://discord.gg/skyzen)
+[![King.ιℓу 𓂃‹3]([https://cdn.discordapp.com/attachments/1244683167936413696/1255154696163688568/9bededd77c81772cc99d38a2e6694db5.jpg?ex=667c1967&is=667ac7e7&hm=349a367d86de64377c800c722aeba582a8dbdf03139edc230907e98d11be4000&](https://images-ext-1.discordapp.net/external/ygWT9ZVooq8rQuOMm-dhDVYauIklUFNrXMQuQ6j_x4M/%3Fsize%3D512/https/cdn.discordapp.com/banners/1243888761507680316/a_71f6e1c34a638f6fe71adcd761623689.gif?width=360&height=127))]
 
 <h1 align="center">Hi 👋, I'm King.ιℓу 𓂃‹3</h1>
 
@@ -9,7 +9,7 @@
 - ⚡ Fun fact **Vampires had a fear of mirrors because they couldn't see their own reflections.**
 
 # 💫 About Me:
-🔭 I’m currently working on [![Pokétoxz](https://github.com/VampireKing1337/Poketoxz)
+🔭 I’m currently working on [![Pokétoxz](https://github.com/VampireKing1337/Poketwo-Namer)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1243888761507680316?idleMessage=I'm%20offline%20rn&animated=false&showDisplayName=true&theme=dark)](https://discord.com/users/1243888761507680316)
 
