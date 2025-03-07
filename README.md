@@ -11,6 +11,8 @@
 # 💫 About Me:
 🔭 I’m currently working on [![Pokétoxz](https://github.com/VampireKing1337/Poketoxz)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1243888761507680316?idleMessage=I'm%20offline%20rn&animated=false&showDisplayName=true&theme=dark)](https://discord.com/users/1243888761507680316)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/poketoxz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingalpha.ly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyberalpha524@gmail.com) 
 
